@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:id="@+id/menuHome"></item>
+
+    <item android:title="About"
+        android:id="@+id/menuAbout"></item>
+
+    <item android:title="Logout"
+        android:id="@+id/menuLogout"></item>
+
+    <item android:title="Change Password"
+        android:id="@+id/menuPassword"></item>
+
+    <item android:title="Exit"
+        android:id="@+id/menuExit"></item>
+
+</menu>

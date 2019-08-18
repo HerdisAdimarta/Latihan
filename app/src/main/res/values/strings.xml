@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CourseNet</string>
+
+    <string-array name="kota">
+        <item>Jakarta</item>
+        <item>Bandung</item>
+        <item>Surabaya</item>
+        <item>Denpasar</item>
+    </string-array>
+
+
+</resources>
