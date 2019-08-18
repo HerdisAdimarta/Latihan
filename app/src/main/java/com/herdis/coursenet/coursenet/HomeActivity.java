@@ -86,7 +86,7 @@ public class HomeActivity extends AppCompatActivity {
             ab.setNegativeButton("Tidak", new DialogInterface.OnClickListener() {
                 @Override
                 public void onClick(DialogInterface dialog, int which) {
-                    finishAffinity();
+
                 }
             });
             ab.show();
